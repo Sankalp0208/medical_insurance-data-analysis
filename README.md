@@ -33,7 +33,7 @@ Identify key drivers of high medical insurance costs<br>
 Create grouped summaries and comparisons (e.g., average charges by smoker status)<br>
 
 
-📁 medical_insurance_analysis/
-├── medical_insurance.csv        # Dataset file
-├── medical_insurance_analysis.ipynb  # Colab notebook
-├── README.md
+📁 medical_insurance_analysis/<br>
+├── medical_insurance.csv        # Dataset file<br>
+├── medical_insurance_analysis.ipynb  # Colab notebook<br>
+├── README.md<br>
